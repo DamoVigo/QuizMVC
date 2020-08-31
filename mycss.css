@@ -1,0 +1,73 @@
+ body {
+    background-color: rgba(41, 40, 148, 0.548);
+}
+
+#countries {
+    display: none;
+}
+
+#startButton {
+margin-left: 2em;
+}
+
+#name {
+margin-top: 3em;
+margin-left: 2em
+}
+
+
+/* #root4 {
+    display: flex;
+    justify-content: center;
+    margin-top: 2em;
+} */
+
+ /* h1 {
+    display: flex;
+    justify-content: center;
+ }  */
+
+ 
+#image1,
+#image2,
+#image3,
+#image4 {
+  flex-direction: row;
+margin-left: 2em;
+    margin-top: 3em;
+} 
+
+#bouton1,
+#bouton2,
+#bouton3,
+#bouton4{
+    
+margin-left: 2em;
+margin-top: 20em;
+}
+
+ #root3 {
+    display: flex;
+    margin-top: 12em;
+    justify-content: space-around;
+    
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+/* #bouton1,
+#bouton2,
+#bouton3,
+#bouton4 {
+    display: flex;
+    flex-direction: row;
+} */
